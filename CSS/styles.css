@@ -23,7 +23,8 @@ p {
 }
 
 .logo {
-    width: 50px;
+    width: 10;
+    height: 25px;
 }
 
 
@@ -62,4 +63,12 @@ p {
 .navbar-items .default-btn:hover{
     background-color: #22bb5f;
     color: #fff;
+}
+
+.main-banner {
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 10rem 0px;
+    
 }
